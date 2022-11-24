@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  color: blue;
+  
+}
+h1{
+  color: black;
+}
+h2{
+  color: red;
+}
+body{
+  background-color: aqua;
+}
+button{
+  color: blue;
+  background-color: honeydew;
+  border-radius: 5px;
+  margin-left: 100px;
+  margin-top: 1px;
+}
+
+
+
+
+
+
+
+
